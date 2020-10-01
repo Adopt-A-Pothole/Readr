@@ -1,5 +1,18 @@
 # Readr
-Find your perfect book match for free with Readr.
+ Find your perfect book match for free with Readr.
+ 
+<table>
+  <tr>
+    <td>Book Recommendations</td>
+     <td>To-Read List</td>
+     <td>Follow Friends</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/51866859/73042049-5b9dc600-3e25-11ea-899c-6f9006b7f8a7.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/51866859/73042303-5d1bbe00-3e26-11ea-8688-bad4a677b04f.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/51866859/73042069-6c4e3c00-3e25-11ea-956c-1eea4718489c.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 #### The tech stack for this app: 
 
